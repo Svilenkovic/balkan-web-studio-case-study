@@ -2,7 +2,7 @@
 
 Međunarodna web saradnja.
 
-**[balkanwebstudio.com](https://balkanwebstudio.com/)** · [English](README.md)
+**[balkanwebstudio.com](https://balkanwebstudio.com/)** · [Studija: Prva Lekcija](https://balkanwebstudio.com/studije/prva-lekcija-hrvatska-matura/) · [English](README.md)
 
 > [!NOTE]
 > Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
@@ -10,7 +10,7 @@ Međunarodna web saradnja.
 <table>
   <tr><td><b>Vrsta</b></td><td>Međunarodna web saradnja</td></tr>
   <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
+  <tr><td><b>Javne rute</b></td><td>20 canonical stranica</td></tr>
   <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
   <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>

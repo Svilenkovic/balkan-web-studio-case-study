@@ -2,7 +2,7 @@
 
 An international studio site for remote website projects across languages, markets and working hours.
 
-**[balkanwebstudio.com](https://balkanwebstudio.com/)** · [Srpski](README.sr.md)
+**[balkanwebstudio.com](https://balkanwebstudio.com/)** · [Prva Lekcija case study](https://balkanwebstudio.com/en/case-studies/prva-lekcija-croatian-final-exams/) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
@@ -10,7 +10,7 @@ An international studio site for remote website projects across languages, marke
 <table>
   <tr><td><b>Type</b></td><td>International web collaboration</td></tr>
   <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>18 canonical pages</td></tr>
+  <tr><td><b>Public routes</b></td><td>20 canonical pages</td></tr>
   <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
   <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
