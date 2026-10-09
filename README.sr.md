@@ -1,42 +1,58 @@
+<a href="https://balkanwebstudio.com/"><img src="media/cover.jpg" alt="Balkan Web Studio, naslovna strana na laptopu i telefonu" width="100%"></a>
+
 # Balkan Web Studio
 
-Međunarodna web saradnja.
+Sajt studija za web projekte između više zemalja i vremenskih zona, sa kalkulatorom zajedničkog radnog vremena.
 
-**[balkanwebstudio.com](https://balkanwebstudio.com/)** · [Studija: Prva Lekcija](https://balkanwebstudio.com/studije/prva-lekcija-hrvatska-matura/) · [English](README.md)
+**[balkanwebstudio.com](https://balkanwebstudio.com/)** · [Studija slučaja](https://svilenkovic.rs/radovi/balkan-web-studio) · [English](README.md)
 
 > [!NOTE]
-> Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
+> Moj sopstveni projekat, ne klijentski posao. Izvorni kod je privatan. Ova stranica opisuje šta sajt radi i kako je napravljen.
 
 <table>
-  <tr><td><b>Vrsta</b></td><td>Međunarodna web saradnja</td></tr>
-  <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>20 canonical stranica</td></tr>
-  <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Klijent</b></td><td>Sopstveni projekat</td></tr>
+  <tr><td><b>Delatnost</b></td><td>Web saradnja između zemalja i vremenskih zona</td></tr>
+  <tr><td><b>Lokacija</b></td><td>Srbija</td></tr>
+  <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Istraživanje, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Astro 7, TypeScript, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Namena
+## O projektu
 
-Rad na daljinu traži više od prevedene kontakt stranice. Projekat objašnjava kako istraživanje, termini pregleda, pisane odluke i fazna isporuka drže međunarodni web projekat razumljivim na različitim lokacijama.
+Kad saradnici rade iz više država, dogovor o projektu ne sme da pretpostavi da svi imaju isti sat, jezik ili način predaje. Balkan Web Studio opisuje postupak u kome se to dogovori pre izrade sajta: ko odlučuje, na kom jeziku, kada se pregledaju verzije i ko objavljuje sajt.
 
-## Dizajn pravac
+Umesto opšte karte, naslovna je solarni atlas u kome put svetla povezuje različita mesta. Kalkulator vremenskih zona pomaže da se pronađe zajedničko radno vreme bez ručnog preračunavanja; u njemu se planira termin, ali ništa se ne zakazuje i nikome se ne šalju podaci. Primeri vode ka javnim studijama stvarnih projekata, kao što je Prva Lekcija za hrvatsko tržište, a ništa se ne pripisuje lokalnom timu ili kancelariji koja ne postoji.
 
-Sajt je solarni atlas. Kobaltni prostor, zlatni lukovi i koralni markeri prate rad kroz vremenske zone, a put se menja kako čitalac napreduje.
+## Šta sam uradio
 
-## Šta je urađeno
+- Kalkulator vremenskih zona za pronalaženje zajedničkog radnog vremena
+- Postupak sa pisanim odlukama, terminima za pregled i isporukom u fazama
+- Engleske strane sa punim srpskim parom
+- Primeri projekata vezani za javne studije, bez izmišljenih kancelarija i zaposlenih
+- Kontakt i politika privatnosti pisani za upite iz inostranstva
 
-- Engleski projektni sadržaj sa punim srpskim parom
-- Proces za asinhroni pregled i zabeležene odluke
-- Međunarodne stranice bez izmišljenih lokalnih kancelarija ili tima
-- Sunčeva putanja koja objašnjava vreme i primopredaju
-- Kontakt i privatnost prilagođeni upitima iz drugih zemalja
+## Merenja
 
-## Provere izdanja
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Svaka canonical ruta proverena je na širinama 390, 768, 1440 i 1920 px. Izdanje je provereno i bez JavaScript-a i uz reduced-motion postavku. Žive provere obuhvatile su HTTPS, preusmerenja, zaglavlja odgovora, strukturirane podatke, sitemap fajlove, zaštićene putanje i neispravne kontakt zahteve bez slanja test poruka.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`, `Person`.
 
-Ovo su inženjerske provere, a ne tvrdnje o poziciji u pretrazi ili terenskim performansama.
+## Snimci ekrana
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="Balkan Web Studio, naslovna strana na ekranu širine 1440 px"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="Balkan Web Studio, naslovna strana na telefonu"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Kalkulator vremenskih zona na živom sajtu">
+<sub>Kalkulator vremenskih zona na živom sajtu</sub>
 
 ---
 
-<sub>Dizajn i izrada: [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>
