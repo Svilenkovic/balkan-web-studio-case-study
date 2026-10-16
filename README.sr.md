@@ -39,7 +39,7 @@ Umesto opšte karte, naslovna je solarni atlas u kome put svetla povezuje razli�
 | Telefon | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`, `Person`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. Strukturisani podaci: `Person`.
 
 ## Snimci ekrana
 
